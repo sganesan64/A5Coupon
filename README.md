@@ -4,4 +4,5 @@ Please use the following link to view my findings and supporting plots created u
 ## Verified data when customers accepted coupons using Seaborns Joint plot correlation to the temperature
     sns.jointplot(dfcpn.query("Y == 1"),x='direction_same',y='temperature',kind='kde')
     
-    ![seaborn.axisgrid.JointGrid at 0x2125eefbfe0](https://github.com/sganesan64/A5Coupon/blob/main/images/sns_joint_accepted_temp.PNG)
+    <seaborn.axisgrid.JointGrid at 0x2125eefbfe0>
+    <img src=https://github.com/sganesan64/A5Coupon/blob/main/images/sns_joint_accepted_temp.PNG/>
