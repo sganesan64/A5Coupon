@@ -6,6 +6,7 @@ Please use the following link to view my findings and supporting plots created u
     
     <seaborn.axisgrid.JointGrid at 0x2125eefbfe0>
     ![Seaborn jointplot againt temperature vs accepted]("images/sns_Y_on_DirectionVsTemperature.png")
-    <img src="./images/sns_joint_accepted_temp.JPG" alt="Seaborn jointplot againt temperature vs accepted"/>
-    !["Seaborn jointplot againt temperature vs accepted"](images/sns_joint_accepted_temp.PNG)
-     !["Seaborn jointplot againt temperature vs accepted"](./images/sns_joint_accepted_temp.PNG)
+    <img src="images/sns_Y_on_DirectionVsTemperature.png" alt="Seaborn jointplot againt temperature vs accepted"/>
+    !["Seaborn jointplot againt temperature vs accepted"]("images/sns_Y_on_DirectionVsTemperature.png")
+
+     !["Seaborn jointplot againt temperature vs accepted"](images/sns_Y_on_DirectionVsTemperature.png)
