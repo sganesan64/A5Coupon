@@ -5,7 +5,7 @@ Please use the following link to view my findings and supporting plots created u
     sns.jointplot(dfcpn.query("Y == 1"),x='direction_same',y='temperature',kind='kde')
     
     <seaborn.axisgrid.JointGrid at 0x2125eefbfe0>
-    ![Seaborn jointplot againt temperature vs accepted]("./images/sns_joint_accepted_temp.JPG")
+    ![Seaborn jointplot againt temperature vs accepted]("images/sns_Y_on_DirectionVsTemperature.png")
     <img src="./images/sns_joint_accepted_temp.JPG" alt="Seaborn jointplot againt temperature vs accepted"/>
     !["Seaborn jointplot againt temperature vs accepted"](images/sns_joint_accepted_temp.PNG)
      !["Seaborn jointplot againt temperature vs accepted"](./images/sns_joint_accepted_temp.PNG)
