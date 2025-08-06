@@ -16,4 +16,11 @@ At the same time, whether same direction or not, the plot suggest that Direction
 ## Findings 2:
 From the fig 2 which is plotted from the customers not accepted coupon , identified that data is not confirming that above Findings 1 is true.
 
+### Data conditions and concerns
+The percentage of customers accepted the coupon is little over 56% and not accepted is little over 43% , Meaning both cases are equally represented with the sampled population. So it might be hard to come to a conclusion based on the findings.
+
+Cleaned data to have numbers for Text columns of Coupon by mapping numbers to categories and cleaning up age by replacing text parts
+
+## Findings 3: After trying several plots and combinations , settled with the joint plot with Histogram. This plot prominently brought out the "Bar" coupons being brodly accepted by all age group, but not lot in the age group compared to "Coffee House" coupons###
+
 
