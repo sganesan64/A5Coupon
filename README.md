@@ -23,4 +23,6 @@ Cleaned data to have numbers for Text columns of Coupon by mapping numbers to ca
 
 ## Findings 3: After trying several plots and combinations , settled with the joint plot with Histogram. This plot prominently brought out the "Bar" coupons being brodly accepted by all age group, but not lot in the age group compared to "Coffee House" coupons###
 
+<img width="785" height="790" alt="image" src="https://github.com/user-attachments/assets/f7036255-3067-4839-b034-d1f824fb9074" />
+
 
