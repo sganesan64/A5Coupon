@@ -3,7 +3,7 @@
 Please use the following link to view my findings and supporting plots created using above mentioned data : <url>https://github.com/sganesan64/A5Coupon/blob/main/PracticalAssignment1.ipynb</url>
 
 ### Problem Statement
-  Identifying the most probale reason fir a customer to accept the Coupons
+  Identifying the most probale reason for a customer to accept the Coupons
   
 ## Verified data when <u>customers accepted</u> coupons using Seaborns Joint plot correlation to the temperature and Direction
 sns.jointplot(dfcpn.query("Y == 1"),x='direction_same',y='temperature',kind='kde')
@@ -28,6 +28,7 @@ Cleaned data to have numbers for Text columns of Coupon by mapping numbers to ca
 ## Findings 3: After trying several plots and combinations , settled with the joint plot with Histogram. This plot prominently brought out the "Bar" coupons being brodly accepted by all age group, but not lot in the age group compared to "Coffee House" coupons###
 
 <img width="785" height="790" alt="image" src="https://github.com/user-attachments/assets/f7036255-3067-4839-b034-d1f824fb9074" />
+
 
 
 
