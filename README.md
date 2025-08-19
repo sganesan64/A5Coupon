@@ -30,6 +30,8 @@ Cleaned data to have numbers for Text columns of Coupon by mapping numbers to ca
 <img width="785" height="790" alt="image" src="https://github.com/user-attachments/assets/f7036255-3067-4839-b034-d1f824fb9074" />
 
 
+## Next Steps
+    Collecting more Data for creating better sample and examiner to come up with definitive answer or direction.
 
 
 
